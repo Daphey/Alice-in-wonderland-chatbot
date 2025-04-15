@@ -10,6 +10,7 @@ import string
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
+nltk.download('punkt_tab')
 
 # Load stopwords and initialize lemmatizer
 stop_words = set(stopwords.words('english'))

@@ -34,11 +34,11 @@ This chatbot uses natural language processing to understand and respond to user 
 ## 📂 Project Structure
 
 🌐 Live Demo
-![Chatbot Screenshot]()
+![Chatbot Screenshot](https://github.com/Daphey/Alice-in-wonderland-chatbot/blob/main/Screenshot%20(28).png)
 
 
 
-👉 ![Click here to chat with Alice:](https://alice-in-wonderland-chatbot-nmqnhuj6sf8fjzyaazg7fk.streamlit.app/)
+👉 [Click here to chat with Alice:](https://alice-in-wonderland-chatbot-nmqnhuj6sf8fjzyaazg7fk.streamlit.app/)
 
 
 ✍️ Author

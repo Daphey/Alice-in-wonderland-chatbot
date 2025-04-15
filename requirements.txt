@@ -2,8 +2,3 @@ streamlit
 nltk
 scikit-learn
 pandas
-corpus
-tokenizer
-stopwords
-wordnet
-punkt

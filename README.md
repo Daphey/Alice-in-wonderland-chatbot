@@ -43,4 +43,4 @@ This chatbot uses natural language processing to understand and respond to user 
 
 ✍️ Author
 Your Name
-[GitHub]() • [LinkedIn](https://www.linkedin.com/in/olu-samuel-89246b22a/)
+[GitHub](https://github.com/Daphey/Alice-in-wonderland-chatbot) • [LinkedIn](https://www.linkedin.com/in/olu-samuel-89246b22a/)

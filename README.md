@@ -34,11 +34,13 @@ This chatbot uses natural language processing to understand and respond to user 
 ## 📂 Project Structure
 
 🌐 Live Demo
+![Chatbot Screenshot]()
 
 
-👉 Click here to chat with Alice
+
+👉 ![Click here to chat with Alice:](https://alice-in-wonderland-chatbot-nmqnhuj6sf8fjzyaazg7fk.streamlit.app/)
 
 
 ✍️ Author
 Your Name
-GitHub • LinkedIn
+[GitHub]() • [LinkedIn](https://www.linkedin.com/in/olu-samuel-89246b22a/)
